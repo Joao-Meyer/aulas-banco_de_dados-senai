@@ -1,0 +1,19 @@
+1 - Fazer a permanência dos dados de maneira lógica e organizada além de disponibilizá-los, de maneira adequada, para outros serviços (programas).
+Maria DB - SQL
+ACCESS - No-SQL
+
+2 - armazenar dados de funcionários
+armazenar dados de um jogo
+armazenar listas de telefones
+armazenar transações bancárias
+armazenar cadastros de sites
+
+
+3 - É um sistema que gerencia um banco de dados, ele facilita a compreensão e manuseio de bancos de dados.
+
+4 - Um GA não tem características organizacionais (como por exemplo categorias e campos) e relacionais que um banco de dados tem.
+
+5 -
+DDL (Data Definition Language) -> Molda a estrutura do banco de dados(Create Alter Drop).
+DML (Data Manipulation Language) -> Manipula os dados de um banco de dados(Insert, Update, Delete, Select).
+DCL (Data Control Language) -> Delega permissões de acesso a base de dados.
