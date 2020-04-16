@@ -1,0 +1,30 @@
+[cidade]
+o id_cidade
+o nome
+o= endereco
+
+[condominio]
+o id_condominio
+o nome
+
+[bloco]
+o id_bloco
+o nome
+o= endereco
+
+[unidade]
+o id_unidade
+o proprietario
+o endereco
+
+[morador]
+o id_morador
+o nome
+o* endereco
+
+-[morador_proprietario]
+o cnpj
+
+-[morador_alocado]
+o data_inicio
+o data_termino
